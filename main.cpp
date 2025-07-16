@@ -1,7 +1,7 @@
 #include <iostream>
-#include <cstdlib>      // For rand(), srand()
-#include <ctime>        // For time()
-#include <algorithm>    // For std::swap
+#include <cstdlib>      
+#include <ctime>        
+#include <algorithm>    
 #include <chrono>
 
 using namespace std;
